@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.092e60b3.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.092e60b3.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.43a322f1.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.43a322f1.js.map",
+    "main.js": "/react-portfolio/static/js/main.acf6084b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.acf6084b.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.0baa352e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.0baa352e.js.map",
     "static/js/2.826388e1.chunk.js": "/react-portfolio/static/js/2.826388e1.chunk.js",
     "static/js/2.826388e1.chunk.js.map": "/react-portfolio/static/js/2.826388e1.chunk.js.map",
-    "static/js/3.d165d80d.chunk.js": "/react-portfolio/static/js/3.d165d80d.chunk.js",
-    "static/js/3.d165d80d.chunk.js.map": "/react-portfolio/static/js/3.d165d80d.chunk.js.map",
+    "static/js/3.cb06d598.chunk.js": "/react-portfolio/static/js/3.cb06d598.chunk.js",
+    "static/js/3.cb06d598.chunk.js.map": "/react-portfolio/static/js/3.cb06d598.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/react-portfolio/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.826388e1.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.826388e1.chunk.js.LICENSE.txt",
     "static/media/batterup.jpg": "/react-portfolio/static/media/batterup.fd12fab5.jpg",
     "static/media/horiseon.jpg": "/react-portfolio/static/media/horiseon.d267c3f0.jpg",
+    "static/media/onrotation.jpg": "/react-portfolio/static/media/onrotation.2ce204ff.jpg",
     "static/media/photo-port.jpg": "/react-portfolio/static/media/photo-port.d2841120.jpg",
     "static/media/rob.jpg": "/react-portfolio/static/media/rob.0820284a.jpg",
     "static/media/robot-gladiators.jpg": "/react-portfolio/static/media/robot-gladiators.57d03a3c.jpg",
@@ -21,9 +22,9 @@
     "static/media/song-finder.jpg": "/react-portfolio/static/media/song-finder.588467a4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43a322f1.js",
+    "static/js/runtime-main.0baa352e.js",
     "static/js/2.826388e1.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.092e60b3.chunk.js"
+    "static/js/main.acf6084b.chunk.js"
   ]
 }
