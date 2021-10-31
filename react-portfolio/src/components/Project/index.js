@@ -3,6 +3,14 @@ import React,{ useState } from "react";
 function Project() {
     const [works] = useState([
         {
+            name: 'On Rotation',
+            technology: 'MERN',
+            deployed: 'https://on-rotation.herokuapp.com/',
+            photo: 'onrotation',
+            repo: 'https://github.com/robshoe187/on-rotation'
+
+        },
+        {
             name: 'Batters Up!',
             technology: 'Handlebars/Sequelize',
             deployed: 'https://project-2-rs.herokuapp.com/',
